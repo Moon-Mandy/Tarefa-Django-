@@ -1,0 +1,27 @@
+{% load static %}
+
+
+<!DOCTYPE html>
+    <html>
+        <html lang="pt-br">
+        <head>
+            <meta charset="UTF-8">
+            <title>{% block title %}Tarefa 12 - Estilização de site{% endblock %}</title>
+            <link rel="stylesheet" type="text/css" href="{% static 'styles.css' %}">
+        </head>
+        <body>
+
+
+            <div>
+                <a href="{% url 'home' %}" class="navbar-brand"></a>
+            </div>
+
+
+            <div class="body-content">
+                {% block content %}
+                {% endblock %}
+            </div>
+
+
+        </body>
+    </html>

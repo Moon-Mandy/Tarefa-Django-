@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Halant:wght@300&family=Kalnia:wght@300&family=Rozha+One&family=Sumana&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Halant:wght@300&family=Kalnia:wght@600&family=Rozha+One&family=Sumana:wght@400;700&display=swap');
+
+html{
+    background-color: #fadadd;
+    
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    padding: 0 300px 10000px 300px;
+    border: 5px solid black;
+
+
+}
+
+h1{
+    color:rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: "Kalnia", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    position: sticky;
+    top:0;
+    text-align: center;
+    margin: auto;
+    padding: 50px 0;
+    background-color: #fadadd;
+    width:100%;
+}
+
+#linha{
+    background-color: black;
+    font-size: 2px;
+    position: sticky;
+    
+}
+
+h4{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: "Kalnia", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    margin: auto;
+}
+
+p{
+    color:rgb(0, 0, 0);
+    font-size: 16px;
+    font-family:"Sumana", serif;
+  font-weight: 400;
+  font-style: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+h2{
+    color:rgb(0, 0, 0);
+    font-size: 50px;
+    font-family: "Kalnia", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    margin: auto;
+    padding: 50px 0;
+}
+
+img{
+    padding-left: 150px;
+    width: 50%
+}
+
+li{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family:"Sumana", serif;
+  font-weight: 400;
+  font-style: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+span{
+    background-color: lightpink;
+}
+
+h5{
+    color:rgb(105, 100, 100);
+    font-size: 14px;
+    font-family:"Sumana", serif;
+  font-weight: 400;
+  font-style: normal;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 2;
+    letter-spacing: 1px; 
+}
+
+h3{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: "Kalnia", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    margin: auto;
+}
+
+footer{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: "Kalnia", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    margin: auto;
+    background-color: #fadadd;
+}
